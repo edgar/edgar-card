@@ -1,7 +1,7 @@
 {
-  "name": "edgar",
+  "name": "edgarg",
   "version": "1.0.0",
-  "description": "Personal npm card for Edgar Gonzalez (@edgar)",
+  "description": "Personal npm card for Edgar Gonzalez (@edgarg)",
   "main": "index.html",
   "repository": {
     "type": "git",
@@ -48,13 +48,13 @@
   "myCard": {
     "info": {
       "name": "Edgar Gonzalez",
-      "handle": "edgar",
+      "handle": "edgarg",
       "twitter": "edgar",
       "npm": "edgarg",
       "github": "edgar",
       "linkedin": "edgargonzalezg",
       "web": "http://gonzalez.io",
-      "work": "Sr Engineering Manager"
+      "work": "Principal Engineer @StreetEasy (Zillow)"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
