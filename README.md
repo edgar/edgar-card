@@ -5,7 +5,7 @@
 Via npx:
 
 ```bash
-npx edgar
+npx edgarg
 ```
 
 # Other
